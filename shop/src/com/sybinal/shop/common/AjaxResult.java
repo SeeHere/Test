@@ -1,7 +1,7 @@
 package com.sybinal.shop.common;
 /**
  * 
- * @author Test
+ * @author Test  
  *
  */
 public class AjaxResult {
